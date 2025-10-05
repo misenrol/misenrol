@@ -9,7 +9,6 @@
 
 <div align="center">
 
-### **SYSTEM STATUS: LAYER 07 INITIATED**
 ![](https://img.shields.io/badge/PROTOCOL-7-006400?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDJMMiAyMmgyMHoiIGZpbGw9IiNmZjAwMDAiLz48L3N2Zz4=&logoColor=white)
 ![](https://img.shields.io/badge/STATUS-CONNECTED-000000?style=for-the-badge)
 ![](https://img.shields.io/badge/LAYER-APPLICATION-008000?style=for-the-badge)
@@ -18,34 +17,49 @@
 
 <div align="center">
 
-## [//root/skills]**
-  ![Back end](https://img.shields.io/badge/ㅤBack%20endㅤ-ffff99?style=for-the-badge)![Cloud](https://img.shields.io/badge/ㅤㅤCloudㅤㅤㅤ-99ff99?style=for-the-badge)![IDE](https://img.shields.io/badge/ㅤㅤㅤIDEㅤㅤㅤ-99ffff?style=for-the-badge)![OS](https://img.shields.io/badge/ㅤㅤㅤㅤㅤOSㅤㅤㅤㅤㅤㅤ-9999ff?style=for-the-badge)
+**[//root/skills]**
+
+<div align="center">
+  
+![Back end](https://img.shields.io/badge/%E3%80%80Back%20end%E3%80%80-00A000?style=for-the-badge)
+
+<div align="center">
+<a href="https://skillicons.dev">
+  <img height=114 align="top" src="https://skillicons.dev/icons?i=python,r,lua,bash&perline=4&theme=dark" alt="Python, R, Lua, Bash" />
+</a>
+  
+![Cloud](https://img.shields.io/badge/%E3%80%80%E3%80%80Cloud%E3%80%80%E3%80%80%E3%80%80-00C000?style=for-the-badge)
 
 <a href="https://skillicons.dev">
-  <img height=114 align="top" src="https://skillicons.dev/icons?i=python,r,lua,bash&perline=2" />
+  <img height=113 align="top" src="https://skillicons.dev/icons?i=aws,mysql,git,github&perline=4&theme=dark" alt="AWS, MySQL, Git, GitHub" />
 </a>
+
+![IDE](https://img.shields.io/badge/%E3%80%80%E3%80%80%E3%80%80IDE%E3%80%80%E3%80%80%E3%80%80-00E000?style=for-the-badge)
+
 <a href="https://skillicons.dev">
-  <img height=113 align="top" src="https://skillicons.dev/icons?i=aws,mysql,git,github&perline=2" />
+  <img height=52 align="top" src="https://skillicons.dev/icons?i=vim,vscode&perline=2&theme=dark" alt="Vim, VS Code" />
 </a>
+
+![OS](https://img.shields.io/badge/%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80OS%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80-00FF00?style=for-the-badge)
+
 <a href="https://skillicons.dev">
-  <img height=52 align="top" src="https://skillicons.dev/icons?i=vim,vscode&perline=2" />
-</a>
-<a href="https://skillicons.dev">
-  <img height=112 align="top" src="https://skillicons.dev/icons?i=linux,arch,windows&perline=3" />
-</a>
+  <img height=112 align="top" src="https://skillicons.dev/icons?i=linux,arch,windows&perline=3&theme=dark" alt="Linux, Arch, Windows" />
+  
+<br><br>
+</div>
 
 ---
 
 <div align="center">
 
-## [//stats/github]**
+**[//stats/github]/**
 
 <a href="https://github.com/misenrol/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=misenrol&title_color=00FF00&bg_color=00000000&text_color=00FF00&border_color=00000000&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
 </a>
 
 <a href="https://github.com/misenrol/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misenrol&layout=compact&title_color=00FF00&bg_color=00000000&text_color=00FF00&border_color=00000000&locale=en&exclude_repo=C" alt="GitHub Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misenrol&layout=compact&title_color=00FF00&bg_color=00000000&text_color=00FF00&border_color=00000000&locale=en&exclude_repo=C" alt="GitHub Top Languages" />
 </a>
 
 </div>
