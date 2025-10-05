@@ -1,7 +1,6 @@
 <div align="center">
 
 # ░█ **No matter where you go, everyone's connected** █░
-## **PRESENT DAY — PRESENT TIME**
 
 [![Animated Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00FF00&random=false&width=500&lines=USER%3A+Lain%2Fmisenrol%2FCopland;PRESENT+DAY+%E2%80%94+PRESENT+TIME;CLOSE+THE+WORLD+%E2%80%94+OPEN+THE+NEXT)](https://git.io/typing-svg)
 
