@@ -1,16 +1,57 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**misenrol/misenrol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ░█ **No matter where you go, everyone's connected** █░
+## **PRESENT DAY — PRESENT TIME**
 
-Here are some ideas to get you started:
+[![Animated Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00FF00&random=false&width=500&lines=USER%3A+Lain%2Fmisenrol%2FCopland;PRESENT+DAY+%E2%80%94+PRESENT+TIME;CLOSE+THE+WORLD+%E2%80%94+OPEN+THE+NEXT)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="center">
+
+### **SYSTEM STATUS: LAYER 07 INITIATED**
+![](https://img.shields.io/badge/PROTOCOL-7-006400?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDJMMiAyMmgyMHoiIGZpbGw9IiNmZjAwMDAiLz48L3N2Zz4=&logoColor=white)
+![](https://img.shields.io/badge/STATUS-CONNECTED-000000?style=for-the-badge)
+![](https://img.shields.io/badge/LAYER-APPLICATION-008000?style=for-the-badge)
+![](https://img.shields.io/badge/Last_Online-Right_Now-000000?style=for-the-badge&logo=clock)
+</div>
+
+<div align="center">
+
+## [//root/skills]**
+  ![Back end](https://img.shields.io/badge/ㅤBack%20endㅤ-ffff99?style=for-the-badge)![Cloud](https://img.shields.io/badge/ㅤㅤCloudㅤㅤㅤ-99ff99?style=for-the-badge)![IDE](https://img.shields.io/badge/ㅤㅤㅤIDEㅤㅤㅤ-99ffff?style=for-the-badge)![OS](https://img.shields.io/badge/ㅤㅤㅤㅤㅤOSㅤㅤㅤㅤㅤㅤ-9999ff?style=for-the-badge)
+
+<a href="https://skillicons.dev">
+  <img height=114 align="top" src="https://skillicons.dev/icons?i=python,r,lua,bash&perline=2" />
+</a>
+<a href="https://skillicons.dev">
+  <img height=113 align="top" src="https://skillicons.dev/icons?i=aws,mysql,git,github&perline=2" />
+</a>
+<a href="https://skillicons.dev">
+  <img height=52 align="top" src="https://skillicons.dev/icons?i=vim,vscode&perline=2" />
+</a>
+<a href="https://skillicons.dev">
+  <img height=112 align="top" src="https://skillicons.dev/icons?i=linux,arch,windows&perline=3" />
+</a>
+
+---
+
+<div align="center">
+
+## [//stats/github]**
+
+<a href="https://github.com/misenrol/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=misenrol&title_color=00FF00&bg_color=00000000&text_color=00FF00&border_color=00000000&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
+</a>
+
+<a href="https://github.com/misenrol/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misenrol&layout=compact&title_color=00FF00&bg_color=00000000&text_color=00FF00&border_color=00000000&locale=en&exclude_repo=C" alt="GitHub Top Languages" />
+</a>
+
+</div>
+
+<div align="center">
+
+# █ **If you're not remembered, then you never existed** █
+
+</div>
