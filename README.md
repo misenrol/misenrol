@@ -62,6 +62,6 @@
 
 <div align="center">
 
-# █ **If you're not remembered, then you never existed** █
+# █ **If you're not remembered, then you never e̷x̴i̷s̸t̴e̸d̴** █
 
 </div>
