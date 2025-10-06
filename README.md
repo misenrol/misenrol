@@ -8,9 +8,6 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/PROTOCOL-7-006400?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDJMMiAyMmgyMHoiIGZpbGw9IiNmZjAwMDAiLz48L3N2Zz4=&logoColor=white)
-![](https://img.shields.io/badge/STATUS-CONNECTED-000000?style=for-the-badge)
-![](https://img.shields.io/badge/LAYER-APPLICATION-008000?style=for-the-badge)
 ![](https://img.shields.io/badge/Last_Online-Right_Now-000000?style=for-the-badge&logo=clock)
 </div>
 
