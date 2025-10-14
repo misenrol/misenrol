@@ -44,21 +44,6 @@
 <br><br>
 </div>
 
----
-
-<div align="center">
-
-**[//stats/github]/**
-
-<a href="https://github.com/misenrol/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=misenrol&title_color=00FF00&bg_color=00000000&text_color=00FF00&border_color=00000000&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
-</a>
-
-<a href="https://github.com/misenrol/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misenrol&layout=compact&title_color=00FF00&bg_color=00000000&text_color=00FF00&border_color=00000000&locale=en&exclude_repo=C" alt="GitHub Top Languages" />
-</a>
-
-</div>
 
 <div align="center">
 
