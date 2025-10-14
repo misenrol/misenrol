@@ -1,14 +1,15 @@
 <div align="center">
 
 # ░█ **No matter where you go, everyone's connected** █░
-
+<div align="center">
+  
 [![Animated Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00FF00&random=false&width=500&lines=USER%3A+Lain%2Fmisenrol%2FCopland;PRESENT+DAY+%E2%80%94+PRESENT+TIME;CLOSE+THE+WORLD+%E2%80%94+OPEN+THE+NEXT)](https://git.io/typing-svg)
-
+</div>
 </div>
 
 <div align="center">
 
-![](https://img.shields.io/badge/Last_Online-Right_Now-000000?style=for-the-badge&logo=clock)
+![](https://img.shields.io/badge/Last_Online-Right_Now-000000?style=for-the-badge&logo=clock)\
 </div>
 
 <div align="center">
