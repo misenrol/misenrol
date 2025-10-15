@@ -9,7 +9,7 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/Last_Online-Right_Now-000000?style=for-the-badge&logo=clock)\
+![](https://img.shields.io/badge/Last_Online-Right_Now-000000?style=for-the-badge&logo=clock)
 </div>
 
 <div align="center">
